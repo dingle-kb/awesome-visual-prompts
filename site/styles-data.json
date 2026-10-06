@@ -344,6 +344,32 @@
       "copy": "../docs/copy-prompts/image/image-vintage-scientific-botanical-poster.md"
     },
     {
+      "slug": "image-vintage-handmade-patchwork",
+      "kind": "image",
+      "type": "source",
+      "title": "复古手工拼布画",
+      "category": "社交媒体",
+      "summary": "把照片中的景物转成带毛边、缝线和补丁层次的复古布艺拼贴，保留原图构图与物体位置。",
+      "tags": [
+        "照片转绘",
+        "布艺拼贴",
+        "手工缝线",
+        "复古"
+      ],
+      "inputs": [
+        "上传一张要转换为拼布画的照片。"
+      ],
+      "preview": "../styles/image/image-vintage-handmade-patchwork/preview.jpg",
+      "sample": null,
+      "source": {
+        "author": "Pou妈的AI小匣子",
+        "url": "https://www.douyin.com/video/7677900163386912241",
+        "linkType": "post"
+      },
+      "json": "../styles/image/image-vintage-handmade-patchwork/style.json",
+      "copy": "../docs/copy-prompts/image/image-vintage-handmade-patchwork.md"
+    },
+    {
       "slug": "image-concept-sofa-development-board",
       "kind": "image",
       "type": "source",
@@ -1687,6 +1713,32 @@
       },
       "json": "../styles/image/image-beverage-food-marketing-hero/style.json",
       "copy": "../docs/copy-prompts/image/image-beverage-food-marketing-hero.md"
+    },
+    {
+      "slug": "image-photo-pen-sketch-travel-journal",
+      "kind": "image",
+      "type": "source",
+      "title": "真实摄影与钢笔速写旅行手账",
+      "category": "旅行城市",
+      "summary": "上半部保留照片，下半部转为暖米白纸上的钢笔淡彩，以跨越纸面边界的元素和小旅行者串起故事。",
+      "tags": [
+        "照片编辑",
+        "钢笔速写",
+        "水彩淡彩",
+        "旅行手账"
+      ],
+      "inputs": [
+        "上传一张场景照片，并替换提示词中的场景关键词、画面内容描述、延伸元素、点缀色、要排除的密集内容及小人动作。"
+      ],
+      "preview": "../styles/image/image-photo-pen-sketch-travel-journal/preview.jpg",
+      "sample": null,
+      "source": {
+        "author": "云中工作室",
+        "url": "https://www.douyin.com/video/7692257527824345585",
+        "linkType": "post"
+      },
+      "json": "../styles/image/image-photo-pen-sketch-travel-journal/style.json",
+      "copy": "../docs/copy-prompts/image/image-photo-pen-sketch-travel-journal.md"
     },
     {
       "slug": "image-botanical-soda",

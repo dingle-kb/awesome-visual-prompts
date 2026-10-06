@@ -2,7 +2,7 @@
 
 [返回首页](../README-ZH.md) · [在线画廊](../site/)
 
-## 生图（79）
+## 生图（81）
 
 ### 杯内鱼眼夏日冰饮广告
 
@@ -123,6 +123,14 @@
 生成带解剖编号、手写注记和科学图版排版的植物学海报。 · 来源案例
 
 [复制 Prompt](copy-prompts/image/image-vintage-scientific-botanical-poster.md) · [style.json](../styles/image/image-vintage-scientific-botanical-poster/style.json)
+
+### 复古手工拼布画
+
+[![复古手工拼布画](../styles/image/image-vintage-handmade-patchwork/preview.jpg)](copy-prompts/image/image-vintage-handmade-patchwork.md)
+
+把照片中的景物转成带毛边、缝线和补丁层次的复古布艺拼贴，保留原图构图与物体位置。 · 来源案例
+
+[复制 Prompt](copy-prompts/image/image-vintage-handmade-patchwork.md) · [style.json](../styles/image/image-vintage-handmade-patchwork/style.json)
 
 ### 概念沙发研发板
 
@@ -603,6 +611,14 @@
 生成饮料、冷冻食品和包装商品的商业营销主视觉。 · 来源案例
 
 [复制 Prompt](copy-prompts/image/image-beverage-food-marketing-hero.md) · [style.json](../styles/image/image-beverage-food-marketing-hero/style.json)
+
+### 真实摄影与钢笔速写旅行手账
+
+[![真实摄影与钢笔速写旅行手账](../styles/image/image-photo-pen-sketch-travel-journal/preview.jpg)](copy-prompts/image/image-photo-pen-sketch-travel-journal.md)
+
+上半部保留照片，下半部转为暖米白纸上的钢笔淡彩，以跨越纸面边界的元素和小旅行者串起故事。 · 来源案例
+
+[复制 Prompt](copy-prompts/image/image-photo-pen-sketch-travel-journal.md) · [style.json](../styles/image/image-photo-pen-sketch-travel-journal/style.json)
 
 ### 植物汽水商业静物
 
